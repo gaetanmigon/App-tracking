@@ -3,5 +3,5 @@ pandas
 yfinance
 plotly
 pytz
-sqlite3-binary
 sqlalchemy 
+
